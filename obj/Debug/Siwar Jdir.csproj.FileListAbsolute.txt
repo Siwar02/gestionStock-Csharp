@@ -1,0 +1,16 @@
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\bin\Debug\Siwar Jdir.exe.config
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar Jdir.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form2.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form3.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form4.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form5.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form6.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar Jdir.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\bin\Debug\Siwar Jdir.exe
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\bin\Debug\Siwar Jdir.pdb
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar Jdir.exe
+c:\users\hp\onedrive\documents\visual studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar Jdir.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form7.resources
+C:\Users\hp\OneDrive\Documents\Visual Studio 2013\Projects\Siwar Jdir\obj\Debug\Siwar_Jdir.Form8.resources
